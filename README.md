@@ -16,10 +16,6 @@ FortiPass is a modern, secure, and user-friendly Flutter application designed to
 - 📂 **Organized Password Management**  
   Add, edit, archive, and delete your passwords and account entries with a clean UI.
 
-## 📱 Screenshots
-
-> *(Add screenshots here to showcase main screens like login, secure vault, and password list)*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
